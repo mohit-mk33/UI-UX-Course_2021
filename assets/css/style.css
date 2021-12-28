@@ -1288,6 +1288,15 @@
            #number a{
                display: inline-block;
            }
+           .Convenience-container {
+                width: 100%;
+           }
+           .title{
+            font-size: 28px;
+           }
+           .title-details{
+            text-align: justify;
+           }
     }
 
 
