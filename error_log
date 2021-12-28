@@ -1,0 +1,2 @@
+[07-Oct-2021 15:05:10 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/ui-ux-course-2021/contact-model.php on line 38
+[07-Oct-2021 22:49:00 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/ui-ux-course-2021/contact-model.php on line 38
